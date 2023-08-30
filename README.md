@@ -1,2 +1,2 @@
 # CODSOFT
-personal portfolio
+personal portfolio for CODSOFT internship
